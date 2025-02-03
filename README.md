@@ -1,0 +1,10 @@
+- Due to time constraints I couldn't complete the test.
+- I have completed till points 5
+- I have made basic functionalities
+- I have written some tests as well
+- I have developed a comprehensive api /createwallet. That has all the checks and functionalities. You can check my coding standards in this API.
+- I have mad a rest controller advice as well.
+- I have implemented LOGS in this api as well.
+- I couldn't develop this in JAVA 17 because of organizational restrictions in my laptop
+- But I do have a great idea of switch statements and have previously developed in JAVA 17 as well.
+- I couldn't really complete the test because of really hectic time constraints but I have developed the test through which evaluators can easily evaluate my coding style as well as what I have been doing in the past.
